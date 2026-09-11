@@ -1,0 +1,162 @@
+{
+  "asphalt": {
+    "scale": 4.0,
+    "rough": 0.92,
+    "avg": [
+      0.3176,
+      0.3123,
+      0.3052
+    ],
+    "hasHeight": true
+  },
+  "bark": {
+    "scale": 1.0,
+    "rough": 0.95,
+    "avg": [
+      0.4668,
+      0.3347,
+      0.2318
+    ],
+    "hasHeight": true
+  },
+  "brick_red": {
+    "scale": 2.0,
+    "rough": 0.88,
+    "avg": [
+      0.6381,
+      0.3682,
+      0.2815
+    ],
+    "hasHeight": true
+  },
+  "carpet": {
+    "scale": 2.0,
+    "rough": 1.0,
+    "avg": [
+      0.1081,
+      0.1433,
+      0.2441
+    ],
+    "hasHeight": true
+  },
+  "concrete": {
+    "scale": 2.0,
+    "rough": 0.85,
+    "avg": [
+      0.6385,
+      0.6326,
+      0.6241
+    ],
+    "hasHeight": true
+  },
+  "dirt_road": {
+    "scale": 4.0,
+    "rough": 0.95,
+    "avg": [
+      0.5903,
+      0.4297,
+      0.2783
+    ],
+    "hasHeight": true
+  },
+  "fabric_canvas": {
+    "scale": 1.0,
+    "rough": 1.0,
+    "avg": [
+      0.9149,
+      0.9075,
+      0.8962
+    ],
+    "hasHeight": false
+  },
+  "grass": {
+    "scale": 4.0,
+    "rough": 0.95,
+    "avg": [
+      0.3432,
+      0.4874,
+      0.1554
+    ],
+    "hasHeight": true
+  },
+  "gravel": {
+    "scale": 2.0,
+    "rough": 0.95,
+    "avg": [
+      0.6126,
+      0.5457,
+      0.4768
+    ],
+    "hasHeight": true
+  },
+  "pavement": {
+    "scale": 2.0,
+    "rough": 0.85,
+    "avg": [
+      0.6784,
+      0.664,
+      0.6459
+    ],
+    "hasHeight": true
+  },
+  "plaster": {
+    "scale": 2.0,
+    "rough": 0.8,
+    "avg": [
+      0.8988,
+      0.8914,
+      0.8787
+    ],
+    "hasHeight": true
+  },
+  "roof_tiles": {
+    "scale": 2.0,
+    "rough": 0.75,
+    "avg": [
+      0.7655,
+      0.4171,
+      0.244
+    ],
+    "hasHeight": true
+  },
+  "stone": {
+    "scale": 2.0,
+    "rough": 0.9,
+    "avg": [
+      0.5158,
+      0.5021,
+      0.4823
+    ],
+    "hasHeight": true
+  },
+  "tile_floor": {
+    "scale": 2.0,
+    "rough": 0.3,
+    "avg": [
+      0.9279,
+      0.8738,
+      0.794
+    ],
+    "hasHeight": true
+  },
+  "wood_floor": {
+    "scale": 2.0,
+    "rough": 0.45,
+    "avg": [
+      0.7639,
+      0.5002,
+      0.2111
+    ],
+    "hasHeight": true
+  },
+  "wood_planks": {
+    "scale": 2.0,
+    "rough": 0.7,
+    "avg": [
+      0.5798,
+      0.4162,
+      0.263
+    ],
+    "hasHeight": true
+  }
+}
